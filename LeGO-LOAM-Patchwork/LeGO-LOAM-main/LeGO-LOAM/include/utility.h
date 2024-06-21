@@ -99,7 +99,9 @@ using namespace std;
 
 typedef pcl::PointXYZI  PointType;
 
-extern const string pointCloudTopic2 = "/kitti/velo/pointcloud";
+extern const string pointCloudTopic2 = "/points_raw";
+
+//extern const string pointCloudTopic2 = "/kitti/velo/pointcloud";
 //extern const string imuTopic = "/kitti/oxts/imu";
 //extern const string pointCloudTopic2 = "/kitti/velo/pointcloud"; //  for KITTI
 
