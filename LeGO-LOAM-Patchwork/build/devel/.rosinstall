@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/selena/catkin_ws/src/LeGO-LOAM-Patchwork/build/devel/setup.sh

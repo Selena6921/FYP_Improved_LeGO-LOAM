@@ -1,0 +1,7 @@
+{
+    "cmake.sourceDirectory": "/home/selena/catkin_ws/src/LeGO-LOAM-Patchwork/LeGO-LOAM-main/LeGO-LOAM",
+    "files.associations": {
+        "ostream": "cpp",
+        "iostream": "cpp"
+    }
+}
